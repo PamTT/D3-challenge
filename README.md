@@ -1,13 +1,13 @@
 # D3-challenge
 
-1. To create a scatter plot between two of the data variables such as Healthcare vs. Poverty.
-Using the D3 techniques taught in class and create a scatter plot that represents each state with circle elements. You'll code this graphic in the app.js file of your homework directory—make sure you pull in the data from data.csv by using the d3.csv function. Your scatter plot should ultimately appear like the image at the top of this section.
+1. Creating a scatter plot between two of the data variables such as Healthcare vs. Poverty.
+Using the D3 techniques taught in class and create a scatter plot that represents each state with circle elements. The codes are in the app.js file and the the data from data.csv.  The data were pull by using d3.csv function.  Scatter plot ultimately appears like the image in assignment.
 
 
-2. Include state abbreviations in the circles.
+2. State abbreviations in the circles were binded to circles.
 
 
-3. Create and situate your axes and labels to the left and bottom of the chart.
+3. Create and situate axes and labels to the left and bottom of the chart.
 
 4. Bonus:
 	1. More Data, More Dynamics
